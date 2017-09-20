@@ -1,1 +1,1 @@
-*Solution1-Compare the Triplets
+* Solution1-Compare the Triplets
